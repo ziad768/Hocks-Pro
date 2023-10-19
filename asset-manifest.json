@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Hocks-Pro/static/css/main.589c11d8.css",
+    "main.js": "/Hocks-Pro/static/js/main.1f1546f0.js",
+    "static/js/787.0c3f432a.chunk.js": "/Hocks-Pro/static/js/787.0c3f432a.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Hocks-Pro/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Hocks-Pro/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Hocks-Pro/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/banner-02.jpg": "/Hocks-Pro/static/media/banner-02.24672cd0934af0399303.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Hocks-Pro/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/banner-01.jpg": "/Hocks-Pro/static/media/banner-01.b471557b1f8d1983431e.jpg",
+    "static/media/blog23-img.jpg": "/Hocks-Pro/static/media/blog23-img.aef86a9083c70d68b503.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Hocks-Pro/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/Hocks-Pro/index.html",
+    "main.589c11d8.css.map": "/Hocks-Pro/static/css/main.589c11d8.css.map",
+    "main.1f1546f0.js.map": "/Hocks-Pro/static/js/main.1f1546f0.js.map",
+    "787.0c3f432a.chunk.js.map": "/Hocks-Pro/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.589c11d8.css",
+    "static/js/main.1f1546f0.js"
+  ]
+}

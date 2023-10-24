@@ -21,7 +21,7 @@ function Main() {
     <div className='position-absolute w-100 overlay-main'>
     <div className='p-5 contentOverlay text-light'>
     <h1 >Welcome To My Store </h1>
-    <h5 className='my-3'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sed vel aperiam porro aliquid? Quia beatae id pariatur, nobis dolores, aliquam veritatis magnam voluptatum ab vitae cumque dicta! Delectus, cupiditate nostrum?</h5>
+    {window.innerWidth <= '900' ? window.innerWidth <= '500' ?<p className='my-3'>Lorem ipsum, dolor sit amet consectetur....</p> : <h6 className='my-3'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sed vel aperiam porro aliquid? Quia beatae id pariatur...</h6>  : <h5 className='my-3'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sed vel aperiam porro aliquid? Quia beatae id pariatur, nobis dolores</h5>}
     <button className='btn btn-outline-light' onClick={() =>Navigate('/Product')}>Go To Products</button>
     </div>
     <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">

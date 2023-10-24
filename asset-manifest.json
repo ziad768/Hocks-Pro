@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Hocks-Pro/static/css/main.589c11d8.css",
-    "main.js": "/Hocks-Pro/static/js/main.1f1546f0.js",
+    "main.js": "/Hocks-Pro/static/js/main.8ca4cc66.js",
     "static/js/787.0c3f432a.chunk.js": "/Hocks-Pro/static/js/787.0c3f432a.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Hocks-Pro/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/Hocks-Pro/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -13,11 +13,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Hocks-Pro/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/Hocks-Pro/index.html",
     "main.589c11d8.css.map": "/Hocks-Pro/static/css/main.589c11d8.css.map",
-    "main.1f1546f0.js.map": "/Hocks-Pro/static/js/main.1f1546f0.js.map",
+    "main.8ca4cc66.js.map": "/Hocks-Pro/static/js/main.8ca4cc66.js.map",
     "787.0c3f432a.chunk.js.map": "/Hocks-Pro/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.589c11d8.css",
-    "static/js/main.1f1546f0.js"
+    "static/js/main.8ca4cc66.js"
   ]
 }

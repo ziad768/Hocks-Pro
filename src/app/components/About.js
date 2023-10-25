@@ -3,7 +3,7 @@ import CardAbout from './CardAbout'
 function About() {
   const team = [{name: "Ziad Hamdi" , job: "Front-end"},{name: "Bahaa Saber" , job: "Front-end"},{name: "Ahmed Hossam" , job: "Full-steak"},{name: "Ahmed Adel" , job: "Front-end & Technical"}]
   return (
-    <div className="bg-light py-5" style={{height: '82vh'}}>
+    <div className="bg-light py-5" style={{minHeight: '82vh'}}>
     <div className="container py-5">
       <div className="row mb-4">
         <div className="col-lg-5">

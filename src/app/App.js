@@ -17,14 +17,14 @@ function App() {
   return (
     <BrowserRouter>
     <ToastContainer/>
-    <Header></Header>
+    <Header/>
     <Routes>
-    <Route  path="/" element={<Main></Main>}></Route>
-    <Route  path="About" element={<About></About>}></Route>
-    <Route  path="Product" element={<Product></Product>}/>
-    <Route  path="Product/:id" element={<CardDetails></CardDetails>}/>
+    <Route  path="/" element={<Main/>}/>
+    <Route  path="About" element={<About/>}/>
+    <Route  path="Product" element={<Product/>}/>
+    <Route  path="Product/:id" element={<CardDetails/>}/>
     </Routes>
-    <Footer></Footer>  
+    <Footer/>
     </BrowserRouter>
     );
   }
